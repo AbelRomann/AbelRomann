@@ -19,7 +19,6 @@ Me enfoco en construir sistemas robustos, optimizar flujos de información y des
 - Python
 - JavaScript
 - C#
-- SQL
 
 ### Frontend
 - React
@@ -30,7 +29,6 @@ Me enfoco en construir sistemas robustos, optimizar flujos de información y des
 - Supabase
 - SQL Server
 - PostgreSQL
-- APIs CRUD
 
 ### Herramientas
 - Git
@@ -84,7 +82,7 @@ Instituto Tecnológico de las Américas (ITLA)
 
 ## 🌍 Idiomas
 - Español (Nativo)
-- Inglés (Intermedio)
+- Inglés (Avanzado)
 
 ---
 
