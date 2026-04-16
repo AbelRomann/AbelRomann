@@ -67,9 +67,9 @@ I also have hands-on experience in technical support, troubleshooting hardware/s
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO\&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbelRomann\&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO\&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbelRomann\&layout=compact)
 
 ---
 
