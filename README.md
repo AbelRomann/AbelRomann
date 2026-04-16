@@ -31,39 +31,31 @@ I also have hands-on experience in technical support, troubleshooting hardware/s
 
 ### ⚙️ Backend & APIs
 
-```md
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)
-```
+
 
 ### 🗄️ Databases
 
-```md
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
-```
 
 ### 🧰 Tools & Workflow
 
-```md
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-```
 
 ### 🛠️ Technical Support
 
-```md
 ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-0A66C2?style=for-the-badge)
 ![Hardware](https://img.shields.io/badge/Hardware-555555?style=for-the-badge)
 ![Networking](https://img.shields.io/badge/Networking-0078D7?style=for-the-badge)
-![Printers](https://img.shields.io/badge/Printers-2C2C2C?style=for-the-badge)
-```
 
----
 
 ## 📊 GitHub Stats
 
@@ -75,7 +67,7 @@ I also have hands-on experience in technical support, troubleshooting hardware/s
 
 ## 📂 Featured Projects
 
-### 🎵 Music Player App
+### 🎵 Reproductor
 
 A modern Android music player built with Kotlin and Jetpack Compose.
 
@@ -83,7 +75,7 @@ A modern Android music player built with Kotlin and Jetpack Compose.
 * Now Playing screen
 * Smooth UI/UX
 
-### 💸 Expense Control App
+### 💸 Ahorrabien
 
 A personal finance app focused on simplicity and performance.
 
