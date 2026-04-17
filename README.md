@@ -58,7 +58,7 @@ Desarrollador de Software enfocado en backend, bases de datos, desarrollo móvil
     <td width="50%">
       <h4>🍔 ClickFood</h4>
       <p>Proyecto orientado a backend, análisis de datos y métricas predictivas con enfoque en rendimiento y visualización.</p>
-      <sub>Backend • Análisis de Datos • Power BI</sub>
+      <sub>Supabase • React • Python</sub>
     </td>
     <td width="50%">
       <h4>💸 Ahorrabien</h4>
