@@ -1,20 +1,25 @@
 <div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%C2%A1Hola%21+Soy+Abel+Rafael+Rom%C3%A1n+Sebasti%C3%A1n;Backend+%E2%80%A2+Bases+de+Datos+%E2%80%A2+Desarrollo+M%C3%B3vil" alt="Typing SVG" />
+
 <br/>
+
 [![Portafolio](https://img.shields.io/badge/Portafolio-1a1a1a?style=for-the-badge&logo=vercel&logoColor=58A6FF)](https://abelromann.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/abel-rafael-rom%C3%A1n-sebasti%C3%A1n-61432534b/)
 [![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:abel.rafael.roman@gmail.com)
- 
+
 </div>
+
 ---
- 
+
 Desarrollador de Software enfocado en backend, bases de datos, desarrollo móvil y soluciones orientadas a datos. Actualmente en soporte técnico mientras construyo sistemas escalables y experiencias móviles modernas.
- 
+
 ---
- 
+
 ## 🛠️ Stack
- 
+
 <div align="center">
+
 ![React](https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=58A6FF)
 ![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=58A6FF)
 ![Kotlin](https://img.shields.io/badge/Kotlin-1a1a1a?style=flat-square&logo=kotlin&logoColor=58A6FF)
@@ -29,12 +34,13 @@ Desarrollador de Software enfocado en backend, bases de datos, desarrollo móvil
 ![Metabase](https://img.shields.io/badge/Metabase-1a1a1a?style=flat-square&logo=metabase&logoColor=58A6FF)
 ![Git](https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=58A6FF)
 ![Postman](https://img.shields.io/badge/Postman-1a1a1a?style=flat-square&logo=postman&logoColor=58A6FF)
- 
+
 </div>
+
 ---
- 
+
 ## 📂 Proyectos Destacados
- 
+
 <table>
   <tr>
     <td width="50%">
@@ -61,38 +67,46 @@ Desarrollador de Software enfocado en backend, bases de datos, desarrollo móvil
     </td>
   </tr>
 </table>
+
 ---
- 
+
 ## 💼 Experiencia
- 
+
 | Rol | Empresa | Período |
 |-----|---------|---------|
 | **Soporte Técnico** | L&R Comercial | Mar 2026 — Actualidad |
 | **Pasante Analista de Datos** | IRL DualSoft | Jun 2025 — Oct 2025 |
- 
+
 <details>
 <summary><strong>Ver detalles</strong></summary>
 <br/>
+
 **L&R Comercial** — Soporte Técnico
 - Resolución de incidencias de hardware y software
 - Soporte a usuarios y mantenimiento de sistemas
+
 **IRL DualSoft** — Pasante Analista de Datos
 - Análisis y visualización de datos con Power BI y Metabase
 - Desarrollo de reportes y dashboards para toma de decisiones
+
 </details>
+
 ---
- 
+
 ## 📊 GitHub Stats
- 
+
 <div align="center">
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbelRomann&show_icons=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&hide_border=true)
 &nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbelRomann&layout=compact&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&hide_border=true)
- 
+
 </div>
+
 ---
- 
+
 <div align="center">
+
 ⭐ *Siempre construyendo, siempre aprendiendo*
- 
+
 </div>
