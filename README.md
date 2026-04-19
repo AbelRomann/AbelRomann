@@ -45,24 +45,24 @@ Desarrollador de Software enfocado en backend, bases de datos, desarrollo movil 
 <table>
   <tr>
     <td width="50%">
-      <h4>Resolutor</h4>
+      <h4>🛠️ Resolutor</h4>
       <p>Sistema colaborativo para gestion de casos, tareas, workspaces e invitaciones, inspirado en flujos reales de soporte tecnico. Incluye asignacion de trabajo, control de miembros y base para automatizacion de procesos.</p>
       <sub>React • TypeScript • Supabase • PostgreSQL</sub>
     </td>
     <td width="50%">
-      <h4>Sonora</h4>
+      <h4>🎵 Sonora</h4>
       <p>App de musica para Android con arquitectura limpia, reproduccion multimedia y experiencia de usuario moderna.</p>
       <sub>Kotlin • Jetpack Compose • Media3 • Room</sub>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h4>ClickFood</h4>
+      <h4>📊 ClickFood</h4>
       <p>Proyecto orientado a backend, analisis de datos y metricas predictivas con enfoque en rendimiento y visualizacion.</p>
       <sub>Supabase • React • Python</sub>
     </td>
     <td width="50%">
-      <h4>Ahorrabien</h4>
+      <h4>💰 Ahorrabien</h4>
       <p>App movil de finanzas personales con registro de gastos e ingresos, presupuestos por categoria, metas de ahorro y reportes visuales.</p>
       <sub>React Native • Expo • TypeScript • SQLite • Zustand</sub>
     </td>
