@@ -5,7 +5,7 @@
 <br/>
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-1a1a1a?style=for-the-badge&logo=vercel&logoColor=58A6FF)](https://abelromann.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/abel-rafael-rom%C3%A1n-sebasti%C3%A1n-61432534b/)
+[![LinkedIn](https://img.shields.io/badge/INSPIRE-1a1a1a?style=for-the-badge&logo=inspire&logoColor=58A6FF)](https://www.linkedin.com/in/abel-rafael-rom%C3%A1n-sebasti%C3%A1n-61432534b/)
 [![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:abel.rafael.roman@gmail.com)
 
 </div>
