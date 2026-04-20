@@ -26,7 +26,7 @@ Desarrollador de Software enfocado en backend, bases de datos, desarrollo movil 
 ![Kotlin](https://img.shields.io/badge/Kotlin-1a1a1a?style=flat-square&logo=kotlin&logoColor=58A6FF)
 ![C#](https://img.shields.io/badge/C%23-1a1a1a?style=flat-square&logo=csharp&logoColor=58A6FF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=58A6FF)
-![SQL](https://img.shields.io/badge/SQL-1a1a1a?style=flat-square&logo=microsoftsqlserver&logoColor=58A6FF)
+![SQL](https://img.shields.io/badge/SQL-1a1a1a?style=flat-square&logo=SQLite&logoColor=58A6FF)
 ![Supabase](https://img.shields.io/badge/Supabase-1a1a1a?style=flat-square&logo=supabase&logoColor=58A6FF)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=58A6FF)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-1a1a1a?style=flat-square&logo=jetpackcompose&logoColor=58A6FF)
