@@ -31,7 +31,7 @@ Desarrollador de Software enfocado en backend, bases de datos, desarrollo movil 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=58A6FF)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-1a1a1a?style=flat-square&logo=jetpackcompose&logoColor=58A6FF)
 ![Room](https://img.shields.io/badge/Room-1a1a1a?style=flat-square&logo=android&logoColor=58A6FF)
-![Power BI](https://img.shields.io/badge/Power_BI-1a1a1a?style=flat-square&logo=powerbi&logoColor=58A6FF)
+![Power BI](https://img.shields.io/badge/Power_BI-1a1a1a?style=flat-square&logo=data:image/png;base64,<aquí_va_el_logo_codificado>)
 ![Metabase](https://img.shields.io/badge/Metabase-1a1a1a?style=flat-square&logo=metabase&logoColor=58A6FF)
 ![Git](https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=58A6FF)
 ![Postman](https://img.shields.io/badge/Postman-1a1a1a?style=flat-square&logo=postman&logoColor=58A6FF)
