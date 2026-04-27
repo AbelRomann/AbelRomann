@@ -51,7 +51,8 @@ Desarrollador de Software enfocado en backend, bases de datos, desarrollo movil 
     </td>
     <td width="50%">
       <h4>🎵 Sonora</h4>
-      <p>App de musica para Android con arquitectura limpia, reproduccion multimedia y experiencia de usuario moderna.</p>
+      <p>App de musica para Android con arquitectura limpia, reproduccion multimedia y experiencia de usuario moderna.
+      </p>
       <sub>Kotlin • Jetpack Compose • Media3 • Room</sub>
     </td>
   </tr>
