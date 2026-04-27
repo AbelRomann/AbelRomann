@@ -64,7 +64,7 @@ Desarrollador de Software enfocado en backend, bases de datos, desarrollo movil 
     <td width="50%">
       <h4>💰 Ahorrabien</h4>
       <p>App movil de finanzas personales con registro de gastos e ingresos, presupuestos por categoria, metas de ahorro y reportes visuales.</p>
-      <sub>React Native • Expo • TypeScript • SQLite • Zustand</sub>
+      <sub>React Native • Expo • TypeScript • SQLite • Zustand • Supabase</sub>
     </td>
   </tr>
 </table>
