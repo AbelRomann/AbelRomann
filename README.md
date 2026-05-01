@@ -99,9 +99,7 @@ Desarrollador de Software enfocado en backend, bases de datos, desarrollo movil 
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats-abelromanns-projects.vercel.app/api?username=AbelRomann&show_icons=true&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbelRomann&theme=dark)
-![Top Langs](https://github-readme-stats-abelromanns-projects.vercel.app/api/top-langs/?username=AbelRomann&layout=compact&theme=dark)
 
 
 
