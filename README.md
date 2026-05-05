@@ -102,6 +102,9 @@ Desarrollador de Software enfocado en backend, bases de datos, desarrollo movil 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbelRomann&theme=dark)
 
 
+<!-- Métricas nuevas -->
+<img src="https://github.com/AbelRomann/AbelRomann/blob/main/metrics-languages.svg" alt="Lenguajes más usados" />
+
 
 ---
 
