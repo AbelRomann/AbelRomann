@@ -1,6 +1,22 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%C2%A1Hola%21+Soy+Abel+Rafael+Rom%C3%A1n+Sebasti%C3%A1n;Backend+%E2%80%A2+Bases+de+Datos+%E2%80%A2+Apps+y+Sistemas+Escalables" alt="Typing SVG" />
+<div align="center">
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4493f8&height=220&section=header&text=Abel%20Rafael%20Román%20Sebastián&fontSize=45&fontColor=ffffff&fontAlignY=32&desc=Software%20Developer%20%7C%20Backend%20%7C%20Data%20Analytics&descSize=18&descAlignY=54&descColor=ffffff" width="100%" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=3000&pause=1500&color=4493f8&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Optimizing+GitHub+Profiles;Building+Scalable+Systems;Turning+Data+Into+Insights" alt="Typing SVG" />
+</a>
+
+</div>
+
+
+</a>
+
+</div>
+
 
 <br/>
 
