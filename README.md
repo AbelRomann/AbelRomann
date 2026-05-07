@@ -128,4 +128,10 @@ Desarrollador de Software enfocado en backend, bases de datos, desarrollo movil 
 
 ⭐ *Siempre construyendo, siempre aprendiendo*
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4493f8&height=120&section=footer" width="100%" />
+
 </div>
+
+
